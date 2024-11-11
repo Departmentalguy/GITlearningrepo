@@ -1,0 +1,9 @@
+git tips:
+pull before push our 
+git clone for downloadding entire code and
+git pull is for taking already cloned repo with new data that's it
+git push is for pushing our code to github
+git remote add origin url
+enter username and password
+git push -u origin
+
