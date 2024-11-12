@@ -6,4 +6,14 @@ git push is for pushing our code to github
 git remote add origin url
 enter username and password
 git push -u origin
+git pull.rebase true
+git pull.rebase false
+git pull.ff only #fast forward only
+git config user.name "name"
+git config user.email "email"
+git stash
+after work in another branch git stash apply 
+then we continue reglar 
+git reflog
+git cherry=pick <commit id>
 
